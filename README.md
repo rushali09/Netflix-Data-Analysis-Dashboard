@@ -27,18 +27,5 @@ An exploratory data analysis project focused on Netflix content distribution acr
 
 1. Download the Excel dataset used for the analysis (see `/data/Netflix_Content.xlsx`)
 2. Open the Tableau Public link to interact with the dashboard:  
-   👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-profile-name/viz/your-dashboard-link)
+   👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/rushali.sreedhar/viz/Netflixdataanalysisproject/Netflix)
 
-## 📸 Dashboard Preview
-
-| Country-wise Content | Top Rated Titles |
-|----------------------|------------------|
-| ![Dashboard 1](./screenshots/country-distribution.png) | ![Dashboard 2](./screenshots/top-rated.png) |
-
-## 📄 License
-
-MIT License © 2025 [Your Name]
-
----
-
-> Built with a passion for data, streaming, and storytelling 🎬
